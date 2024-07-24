@@ -11,7 +11,7 @@
 
 This repo contains a new epicchain N3 TypeScript smart contract compiler. In other words, the tool in this repo 
 allows you to write epicchain N3 Smart Contracts using TypeScript. This tool joins the larger family of epicchain 
-N3 smart contract compilers including [C#](https://github.com/epicchain-project/epicchain-devpack-dotnet),
+EpicChain smart contract compilers including [C#](https://github.com/epicchain-project/epicchain-devpack-dotnet),
 [Java](https://epicchainw3j.io/#/epicchain-n3/smart_contract_development/introduction), 
 [Python](https://github.com/CityOfZion/epicchain3-boa)
 and [Go](https://github.com/nspcc-dev/epicchain-go/blob/master/docs/compiler.md).
